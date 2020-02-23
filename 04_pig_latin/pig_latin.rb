@@ -19,5 +19,3 @@ def translate text
         end
     }.join(" ")
 end
-
-puts translate "apple"
